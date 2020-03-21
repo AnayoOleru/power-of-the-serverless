@@ -30,30 +30,35 @@ Major Serverless providers
 
 - [Backendless](https://backendless.com/)
 
-##### Capabilities
-Authentication,
-Real-time database
+| Capabilities |
+|--------------|
+| Authentication | 
+| Real-time database |
 
 ##### Overview
-All-in-one kind of service similar to Firebase, including the realtime database. Has a PRO version you can host yourself, if you're, ya know, into running servers.
+> All-in-one kind of service similar to Firebase, including the realtime database. Has a PRO version you can host yourself, if you're, ya know, into running servers.
 
+***
 
 #### Microsoft Azure
 
 - [Microsoft Azure](https://azure.microsoft.com/en-us/)
 
-##### Capabilities
-Provides everything
+| Capabilities |
+|--------------|
+| Provides everything |
 
 ##### Overview
-A major infrastructure provider with solutions for about just everything, and generally considered the cheapest. For working with cloud functions, there is an online editor, but it also allows GitHub sync.
+> A major infrastructure provider with solutions for about just everything, and generally considered the cheapest. For working with cloud functions, there is an online editor, but it also allows GitHub sync.
 
+***
 
 #### Amazon Web Service
 
 - [Amazon Web Service](https://aws.amazon.com/)
 
-##### Capabilities
+| Capabilities | OverView |
+|--------------| -------- |
 Provides everything
 
 ##### Overview
@@ -64,7 +69,8 @@ Lambda, API Gateway, S3, and Cognito (auth) are probably the most relevant thing
 
 - [Google Cloud Platform](https://cloud.google.com/)
 
-##### Capabilities
+| Capabilities | OverView |
+|--------------| -------- |
 Provides everything
 
 ##### Overview
@@ -75,7 +81,8 @@ More of a major infastructure provider in vein of Amazon Web Services than a too
 
 - [Google Firebase](https://firebase.google.com/)
 
-##### Capabilities
+| Capabilities | OverView |
+|--------------| -------- |
 Authentication,
 Real-time database,
 Cloud functions,
@@ -89,7 +96,8 @@ Google Firebase is very powerful while being very easy to use. For example, you 
 
 - [IBM Cloud Functions](https://cloud.ibm.com/functions/)
 
-##### Capabilities
+| Capabilities | OverView |
+|--------------| -------- |
 Cloud Functions
 
 ##### Overview
@@ -100,7 +108,8 @@ Run your application code without servers, scale it automatically, and pay nothi
 
 - [Webtask](https://webtask.io/)
 
-##### Capabilities
+| Capabilities | OverView |
+|--------------| -------- |
 Authentication,
 Real-time database
 
@@ -112,7 +121,8 @@ An in-browser editor for creating and testing cloud functions. Seems like the ni
 
 - [StdLib](https://stdlib.com/)
 
-##### Capabilities
+| Capabilities | OverView |
+|--------------| -------- |
 Cloud Functions
 
 ##### Overview
@@ -128,7 +138,8 @@ For sites that have users or administrators that need to log in to do things, OA
 
 - [AuthO](https://auth0.com/)
 
-##### Capabilities
+| Capabilities | OverView |
+|--------------| -------- |
 Authentication
 
 ##### Overview
@@ -139,7 +150,8 @@ Helps you in handling your own site's authentication system or integrates with l
 
 - [Okta](https://developer.okta.com/)
 
-##### Capabilities
+| Capabilities | OverView |
+|--------------| -------- |
 Authentication
 
 ##### Overview
@@ -149,7 +161,8 @@ An SDK that helps you to handle all auth and user management
 
 - [Okta](https://firebase.google.com/)
 
-##### Capabilities
+| Capabilities | OverView |
+|--------------| -------- |
 Authentication,
 Media Storage,
 Cloud Functions
@@ -162,7 +175,8 @@ You don't need any cloud functions, it helps you handles authentication entirely
 
 - [Netlify Identity](https://docs.netlify.com/visitor-access/identity/)
 
-##### Capabilities
+| Capabilities | OverView |
+|--------------| -------- |
 Authentication,
 Hosting
 
@@ -180,7 +194,8 @@ You want to abstract UI and auth for managing content away into a service, and a
 
 - [Sanity](https://www.sanity.io/)
 
-##### Capabilities
+| Capabilities | OverView |
+|--------------| -------- |
 CMS
 
 ##### Overview
@@ -190,7 +205,8 @@ You can edit collaboratively, distribute over APIs and freely decide later how a
 
 - [Shifter](https://www.getshifter.io/)
 
-##### Capabilities
+| Capabilities | OverView |
+|--------------| -------- |
 CMS,
 WordPress
 
@@ -202,7 +218,8 @@ WordPress sites automatically have a Rest API. But you still need to host the si
 
 - [DatoCMS](https://www.datocms.com/)
 
-##### Capabilities
+| Capabilities | OverView |
+|--------------| -------- |
 CMS
 
 ##### Overview
@@ -213,7 +230,8 @@ Hosted CMS that outputs all your data as a JSON API.
 
 - [Flamelink](https://flamelink.io/)
 
-##### Capabilities
+| Capabilities | OverView |
+|--------------| -------- |
 CMS,
 Firebase
 
@@ -225,7 +243,8 @@ A Realtime Headless CMS for Firebase
 
 - [Better CMS](https://buttercms.com/)
 
-##### Capabilities
+| Capabilities | OverView |
+|--------------| -------- |
 CMS
 
 ##### Overview
@@ -236,7 +255,8 @@ A UI (and API) for managing/creating content, and APIs/SDKs for getting out your
 
 - [Prismic](https://prismic.io/)
 
-##### Capabilities
+| Capabilities | OverView |
+|--------------| -------- |
 CMS
 
 ##### Overview
@@ -247,7 +267,8 @@ A UI (and API) for managing/creating content, and APIs/SDKs for getting out your
 
 - [Contentful](https://www.contentful.com/)
 
-##### Capabilities
+| Capabilities | OverView |
+|--------------| -------- |
 CMS
 
 ##### Overview
@@ -258,7 +279,8 @@ A UI (and API) for managing/creating content, and APIs/SDKs for getting out your
 
 - [Netlify CMS](https://www.netlifycms.org/)
 
-##### Capabilities
+| Capabilities | OverView |
+|--------------| -------- |
 Hosting,
 CDN,
 CMS
@@ -277,7 +299,8 @@ Email, SMS and notification services of any kind
 
 - [Twilio](https://www.twilio.com/)
 
-##### Capabilities
+| Capabilities | OverView |
+|--------------| -------- |
 SMS,
 Push Notification,
 Voice,
@@ -291,7 +314,8 @@ Twilio offers powerful APIs for text messaging, voice, and video.
 
 - [Mailgun](https://www.mailgun.com/)
 
-##### Capabilities
+| Capabilities | OverView |
+|--------------| -------- |
 Email
 
 ##### Overview
@@ -302,7 +326,8 @@ Email sending service.
 
 - [EmailJS](https://www.emailjs.com/)
 
-##### Capabilities
+| Capabilities | OverView |
+|--------------| -------- |
 Email
 
 ##### Overview
@@ -313,7 +338,8 @@ You don't need any server side code at all for this.
 
 - [PopcornNotify](https://popcornnotify.com/)
 
-##### Capabilities
+| Capabilities | OverView |
+|--------------| -------- |
 Email,
 SMS
 
@@ -325,7 +351,8 @@ Email and text messages with just one javaScript API.
 
 - [OneSignal](https://onesignal.com/)
 
-##### Capabilities
+| Capabilities | OverView |
+|--------------| -------- |
 Push Notifications
 
 ##### Overview
@@ -336,7 +363,8 @@ Android, iOS, and Web push notifications
 
 - [Sendgrid](https://sendgrid.com/)
 
-##### Capabilities
+| Capabilities | OverView |
+|--------------| -------- |
 Email
 
 ##### Overview
@@ -347,7 +375,8 @@ Email sending service, and an email builder tool as well.
 
 - [Sparkpost](https://www.sparkpost.com/)
 
-##### Capabilities
+| Capabilities | OverView |
+|--------------| -------- |
 Email
 
 ##### Overview
@@ -364,7 +393,8 @@ Form builder apps. You can host the form and embed with an iframe, or you can ho
 
 - [Google Forms](https://www.google.com/forms/about/)
 
-##### Capabilities
+| Capabilities | OverView |
+|--------------| -------- |
 Forms
 
 ##### Overview
@@ -375,7 +405,8 @@ An easy and free service
 
 - [Wufoo](https://www.wufoo.com/)
 
-##### Capabilities
+| Capabilities | OverView |
+|--------------| -------- |
 Forms
 
 ##### Overview
@@ -387,7 +418,8 @@ Secure forms. API access to data. Reporting. Logic & Branching. Integrations.
 
 - [Formstack](https://www.formstack.com/)
 
-##### Capabilities
+| Capabilities | OverView |
+|--------------| -------- |
 Forms
 
 ##### Overview
@@ -398,7 +430,8 @@ Payments. Integrations
 
 - [TypeForm](https://www.typeform.com/)
 
-##### Capabilities
+| Capabilities | OverView |
+|--------------| -------- |
 Forms
 
 ##### Overview
@@ -409,7 +442,8 @@ Forms with a novel UI/UX where each question is essentially a full page view tha
 
 - [PageClip](https://pageclip.co/)
 
-##### Capabilities
+| Capabilities | OverView |
+|--------------| -------- |
 Forms
 
 ##### Overview
@@ -421,7 +455,8 @@ Point the `action` attribute at a pageclip URL and it saves all the data for you
 
 - [Formspree](https://formspree.io/)
 
-##### Capabilities
+| Capabilities | OverView |
+|--------------| -------- |
 Forms
 
 ##### Overview
@@ -432,7 +467,8 @@ You point `action` attribute like many of the other services, but the hook here 
 
 - [Formkeep](https://formkeep.com/)
 
-##### Capabilities
+| Capabilities | OverView |
+|--------------| -------- |
 Forms
 
 ##### Overview
@@ -443,7 +479,8 @@ Point the `action` attribute at Formkeep and it'll handle the form processing fo
 
 - [Formaholic](https://formaholic.com/)
 
-##### Capabilities
+| Capabilities | OverView |
+|--------------| -------- |
 Forms
 
 ##### Overview
@@ -454,7 +491,8 @@ Their tagline: Send your form to our URL and we'll save it & send it to your ema
 
 - [Basin](https://usebasin.com/)
 
-##### Capabilities
+| Capabilities | OverView |
+|--------------| -------- |
 Forms
 
 ##### Overview
@@ -465,7 +503,8 @@ Point the `action` attribute at Basin and it'll handle the form processing for y
 
 - [Jotform](https://www.jotform.com/)
 
-##### Capabilities
+| Capabilities | OverView |
+|--------------| -------- |
 Forms
 
 ##### Overview
@@ -476,7 +515,8 @@ Has a drag and drop form builder.
 
 - [Formcarry](https://formcarry.com/)
 
-##### Capabilities
+| Capabilities | OverView |
+|--------------| -------- |
 Forms
 
 ##### Overview
@@ -492,7 +532,8 @@ Whether your website is using Serverless or not, you can use this services to ma
 
 - [Cloudinary](https://cloudinary.com/)
 
-##### Capabilities
+| Capabilities | OverView |
+|--------------| -------- |
 Images,
 Video
 
@@ -504,7 +545,8 @@ Cloudinary does fancy image/video stuff like manipulation and optimization, but 
 
 - [Kloudless](https://kloudless.com/)
 
-##### Capabilities
+| Capabilities | OverView |
+|--------------| -------- |
 File Storage
 
 ##### Overview
@@ -515,7 +557,8 @@ Integrates multiple file storage solutions with one API.
 
 - [Uploadcare](https://uploadcare.com/)
 
-##### Capabilities
+| Capabilities | OverView |
+|--------------| -------- |
 File Storage
 
 ##### Overview
@@ -526,7 +569,8 @@ Full featured file uploader and file storage.
 
 - [Filestack](https://www.filestack.com/)
 
-##### Capabilities
+| Capabilities | OverView |
+|--------------| -------- |
 File Storage
 
 ##### Overview
@@ -537,7 +581,8 @@ Offers an all-JavaScript file picker that integrates with other services. The ho
 
 - [Amazon S3](https://aws.amazon.com/s3/)
 
-##### Capabilities
+| Capabilities | OverView |
+|--------------| -------- |
 File Storage
 
 ##### Overview
@@ -555,7 +600,8 @@ Services in which you can install to monitor your server. When you're working se
 
 - [Dashbird](https://dashbird.io/)
 
-##### Capabilities
+| Capabilities | OverView |
+|--------------| -------- |
 Monitoring
 
 ##### Overview
@@ -566,7 +612,8 @@ Their tagline: AWS Lambda monitoring, alerting and debugging made easy. 2-min se
 
 - [Thundra](https://www.thundra.io/)
 
-##### Capabilities
+| Capabilities | OverView |
+|--------------| -------- |
 Monitoring
 
 ##### Overview
@@ -577,7 +624,8 @@ Their tagline: Full observability for AWS Lambda. Instrument and profile your fu
 
 - [IOpipe](https://newrelic.com/products/serverless-aws-lambda?utm_source=iopipe?source=iopipe)
 
-##### Capabilities
+| Capabilities | OverView |
+|--------------| -------- |
 Monitoring
 
 ##### Overview
@@ -594,7 +642,8 @@ Processing payments is sensitive stuff, but modern providers has done a lot to l
 
 - [Stripe](https://stripe.com/checkout)
 
-##### Capabilities
+| Capabilities | OverView |
+|--------------| -------- |
 Payments
 
 ##### Overview
@@ -605,7 +654,8 @@ Probably the most beloved payment service out there. There are payment services 
 
 - [Paystack](https://paystack.com/)
 
-##### Capabilities
+| Capabilities | OverView |
+|--------------| -------- |
 Payments
 
 ##### Overview
@@ -616,7 +666,8 @@ Probably the second most beloved payment service out there. Paystack helps busin
 
 - [Paypal](https://developer.paypal.com/docs/paypal-payments-standard/integration-guide/buy-now-step-1/)
 
-##### Capabilities
+| Capabilities | OverView |
+|--------------| -------- |
 Payments
 
 ##### Overview
@@ -627,7 +678,8 @@ The most relevant PayPal service is probably their Buy Now buttons, which send b
 
 - [Braintree](https://www.braintreepayments.com/)
 
-##### Capabilities
+| Capabilities | OverView |
+|--------------| -------- |
 Payments
 
 ##### Overview
@@ -644,7 +696,8 @@ Imagine things like building your own chat or your own dashboards that update to
 
 - [Pusher](https://pusher.com/)
 
-##### Capabilities
+| Capabilities | OverView |
+|--------------| -------- |
 Realtime
 
 ##### Overview
@@ -655,7 +708,8 @@ Realtime APIs
 
 - [Google Firebase](https://firebase.google.com/)
 
-##### Capabilities
+| Capabilities | OverView |
+|--------------| -------- |
 Authentication,
 Media Storage,
 Cloud Functions,
@@ -669,7 +723,8 @@ The realtime database is very fast and ready to be used for realtime features.
 
 - [PubNub](https://www.pubnub.com/)
 
-##### Capabilities
+| Capabilities | OverView |
+|--------------| -------- |
 Realtime
 
 ##### Overview
@@ -685,7 +740,8 @@ People love your website, but going through all that content to find what they a
 
 - [Google Custom Search Engine](https://cse.google.com/about)
 
-##### Capabilities
+| Capabilities | OverView |
+|--------------| -------- |
 Search
 
 ##### Overview
@@ -697,7 +753,8 @@ You create mini search engines that are scoped by URL and can then embed them on
 
 - [Agolia](https://www.algolia.com/)
 
-##### Capabilities
+| Capabilities | OverView |
+|--------------| -------- |
 Search
 
 ##### Overview
@@ -715,7 +772,8 @@ Although any host can serve up static assets. But these hosts specialize in it.
 
 - [Github Pages](https://pages.github.com/)
 
-##### Capabilities
+| Capabilities | OverView |
+|--------------| -------- |
 Hosting,
 Git
 
@@ -727,7 +785,8 @@ Make any repository, a website
 
 - [Amazon S3](https://aws.amazon.com/s3/)
 
-##### Capabilities
+| Capabilities | OverView |
+|--------------| -------- |
 Hosting
 
 ##### Overview
@@ -738,7 +797,8 @@ S3 is normally mostly used for media files, but you can use a bucket as a websit
 
 - [Netlify](https://www.netlify.com/)
 
-##### Capabilities
+| Capabilities | OverView |
+| ------------ | -------- |
 Hosting,
 CDN,
 Cloud Functions,
@@ -752,7 +812,8 @@ Netlify offers essentially very fancy static file hosting. They have many bonus 
 
 - [Codepen](https://codepen.io/pro/projects/)
 
-##### Capabilities
+| Capabilities | OverView |
+|--------------| -------- |
 Hosting,
 Code Editor,
 File Storage,
@@ -767,7 +828,8 @@ The one and only. Pens are great for quick demos with bits of HTML, CSS, and Jav
 
 - [ZEIT](https://zeit.co/)
 
-##### Capabilities
+| Capabilities | OverView |
+|--------------| -------- |
 Hosting
 
 ##### Overview
@@ -778,7 +840,8 @@ This is the fastest of all. A command-line based deployment tool for any framewo
 
 - [Surge](https://surge.sh/)
 
-##### Capabilities
+| Capabilities | OverView |
+|--------------| -------- |
 Hosting
 
 ##### Overview
@@ -789,7 +852,8 @@ A command-line based deployment tool for any framework.
 
 - [Aerobatic](https://www.aerobatic.com/)
 
-##### Capabilities
+| Capabilities | OverView |
+|--------------| -------- |
 Hosting,
 
 ##### Overview
@@ -801,7 +865,8 @@ Built for static sites, but extensible through "plugins" for stuff like redirect
 
 - [Firebase Hosting](https://firebase.google.com/docs/hosting/)
 
-##### Capabilities
+| Capabilities | OverView |
+|--------------| -------- |
 Hosting,
 
 ##### Overview
