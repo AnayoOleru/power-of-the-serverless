@@ -37,7 +37,7 @@ If you're la serverless noob and want to learn any of this resources, or you're 
 | Real-time database |
 
 ##### Overview
-> > All-in-one kind of service similar to Firebase, including the realtime database. Has a PRO version you can host yourself, if you're, ya know, into running servers.
+> All-in-one kind of service similar to Firebase, including the realtime database. Has a PRO version you can host yourself, if you're, ya know, into running servers.
 
 ***
 
@@ -50,7 +50,7 @@ If you're la serverless noob and want to learn any of this resources, or you're 
 | Provides everything |
 
 ##### Overview
-> > A major infrastructure provider with solutions for about just everything, and generally considered the cheapest. For working with cloud functions, there is an online editor, but it also allows GitHub sync.
+> A major infrastructure provider with solutions for about just everything, and generally considered the cheapest. For working with cloud functions, there is an online editor, but it also allows GitHub sync.
 
 ***
 
@@ -63,7 +63,7 @@ If you're la serverless noob and want to learn any of this resources, or you're 
 | Provides everything |
 
 ##### Overview
-> > Lambda, API Gateway, S3, and Cognito (auth) are probably the most relevant things to front-end developers.
+> Lambda, API Gateway, S3, and Cognito (auth) are probably the most relevant things to front-end developers.
 
 ***
 
@@ -76,7 +76,7 @@ If you're la serverless noob and want to learn any of this resources, or you're 
 | Provides everything |
 
 ##### Overview
-> > More of a major infastructure provider in vein of Amazon Web Services than a toolkit for building out an app like Firebase is.
+> More of a major infastructure provider in vein of Amazon Web Services than a toolkit for building out an app like Firebase is.
 
 ***
 
@@ -342,9 +342,9 @@ Email, SMS and notification services of any kind
 - [PopcornNotify](https://popcornnotify.com/)
 
 | Capabilities |
-|-------| -------|
-Email |
-SMS
+| ------------ |
+| Email |
+| SMS |
 
 ##### Overview
 > Email and text messages with just one javaScript API.
@@ -356,7 +356,7 @@ SMS
 
 | Capabilities |
 |--------------|
-P| ush Notificati |ns
+| Push Notifications |
 
 ##### Overview
 > Android, iOS, and Web push notifications
@@ -367,8 +367,8 @@ P| ush Notificati |ns
 - [Sendgrid](https://sendgrid.com/)
 
 | Capabilities |
-|------| --------|
-Emai |
+| ------ |
+| Emai |
 
 ##### Overview
 > Email sending service, and an email builder tool as well.
@@ -379,8 +379,8 @@ Emai |
 - [Sparkpost](https://www.sparkpost.com/)
 
 | Capabilities |
-|------| --------|
-Emai |
+| ------ |
+| Email |
 
 ##### Overview
 > Email sending service, and comes with analytics too.
@@ -397,8 +397,8 @@ Form builder apps. You can host the form and embed with an iframe, or you can ho
 - [Google Forms](https://www.google.com/forms/about/)
 
 | Capabilities |
-|------| --------|
-Form |
+|------|
+| Form |
 
 ##### Overview
 > An easy and free service
@@ -409,8 +409,8 @@ Form |
 - [Wufoo](https://www.wufoo.com/)
 
 | Capabilities |
-|------| --------|
-Form |
+|------|
+| Form |
 
 ##### Overview
 > Build custom online forms that you can use to collect data, payments and to automate your workflows.
@@ -422,8 +422,8 @@ Secure forms. API access to data. Reporting. Logic & Branching. Integrations.
 - [Formstack](https://www.formstack.com/)
 
 | Capabilities |
-|------| --------|
-Form |
+|------|
+| Form |
 
 ##### Overview
 > Payments. Integrations
@@ -434,8 +434,8 @@ Form |
 - [TypeForm](https://www.typeform.com/)
 
 | Capabilities |
-|------| --------|
-Form |
+|------|
+| Form |
 
 ##### Overview
 > Forms with a novel UI/UX where each question is essentially a full page view that slides by.
@@ -446,8 +446,8 @@ Form |
 - [PageClip](https://pageclip.co/)
 
 | Capabilities |
-|------| --------|
-Form |
+|------|
+| Form |
 
 ##### Overview
 > Collect info from users without a server—Pageclip is your server. Lead capture forms, surveys, newsletter forms, contact forms, etc. Setup any form in seconds.
@@ -459,8 +459,8 @@ Point the `action` attribute at a pageclip URL and it saves all the data for you
 - [Formspree](https://formspree.io/)
 
 | Capabilities |
-|------| --------|
-Form |
+|------|
+| Form |
 
 ##### Overview
 > You point `action` attribute like many of the other services, but the hook here is that you use your own email address in the URL, so you don't even have to register.
@@ -471,8 +471,8 @@ Form |
 - [Formkeep](https://formkeep.com/)
 
 | Capabilities |
-|------| --------|
-Form |
+|------|
+| Form |
 
 ##### Overview
 > Point the `action` attribute at Formkeep and it'll handle the form processing for you. Integrates with services like Zapier, MailChimp, Slack, and Trello. Notable features include spam filtering and auto responders.
@@ -483,8 +483,8 @@ Form |
 - [Formaholic](https://formaholic.com/)
 
 | Capabilities |
-|------| --------|
-Form |
+|------|
+| Form |
 
 ##### Overview
 > Their tagline: Send your form to our URL and we'll save it & send it to your email. No server side code required - perfect for static sites!
@@ -495,8 +495,8 @@ Form |
 - [Basin](https://usebasin.com/)
 
 | Capabilities |
-|------| --------|
-Form |
+|------|
+| Form |
 
 ##### Overview
 > Point the `action` attribute at Basin and it'll handle the form processing for you. Basin features include Zapier integration (which connects to loads of other services), spam filtering, response emails, file uploads, and more.
@@ -507,8 +507,8 @@ Form |
 - [Jotform](https://www.jotform.com/)
 
 | Capabilities |
-|------| --------|
-Form |
+|------|
+| Form |
 
 ##### Overview
 > Has a drag and drop form builder.
@@ -519,8 +519,8 @@ Form |
 - [Formcarry](https://formcarry.com/)
 
 | Capabilities |
-|------| --------|
-Form |
+|------|
+| Form |
 
 ##### Overview
 > Point the `action` attribute at Formcarry and it'll handle the form processing for you. Notably, it has integrations with services like Zapier, Salesforce, Intercom, and Slack. It also has Web-hooks to notify other services (which is nice for serverless architectures).
@@ -536,9 +536,9 @@ Whether your website is using Serverless or not, you can use this services to ma
 - [Cloudinary](https://cloudinary.com/)
 
 | Capabilities |
-|--------| ------|
-Images |
-Video
+|--------|
+| Images |
+| Video
 
 ##### Overview
 > Cloudinary does fancy image/video stuff like manipulation and optimization, but will also directly host for you, making it a good Serverless fit.
@@ -549,8 +549,8 @@ Video
 - [Kloudless](https://kloudless.com/)
 
 | Capabilities |
-|-------------| -|
-File Storag |
+|-------------|
+| File Storage |
 
 ##### Overview
 > Integrates multiple file storage solutions with one API.
@@ -561,8 +561,8 @@ File Storag |
 - [Uploadcare](https://uploadcare.com/)
 
 | Capabilities |
-|-------------| -|
-File Storag |
+|-------------|
+| File Storage |
 
 ##### Overview
 > Full featured file uploader and file storage.
@@ -573,8 +573,8 @@ File Storag |
 - [Filestack](https://www.filestack.com/)
 
 | Capabilities |
-|-------------| -|
-File Storag |
+|-------------|
+| File Storage |
 
 ##### Overview
 > Offers an all-JavaScript file picker that integrates with other services. The host the uploaded files.
@@ -585,8 +585,8 @@ File Storag |
 - [Amazon S3](https://aws.amazon.com/s3/)
 
 | Capabilities |
-|-------------| -|
-File Storag |
+|-------------|
+| File Storage |
 
 ##### Overview
 > Object storage built to store and retrieve any amount of data from anywhere
@@ -604,8 +604,8 @@ Services in which you can install to monitor your server. When you're working se
 - [Dashbird](https://dashbird.io/)
 
 | Capabilities |
-|-----------| ---|
-Monitorin |
+|-----------|
+| Monitoring |
 
 ##### Overview
 > Their tagline: AWS Lambda monitoring, alerting and debugging made easy. 2-min setup, no code changes!
@@ -628,8 +628,8 @@ Monitorin |
 - [IOpipe](https://newrelic.com/products/serverless-aws-lambda?utm_source=iopipe?source=iopipe)
 
 | Capabilities |
-|-----------| ---|
-Monitorin |
+|-----------|
+| Monitoring |
 
 ##### Overview
 > IOpipe is a tool and service that helps you instrument and monitor your functions in dev and production. Free tier available for smaller projects.
@@ -646,8 +646,8 @@ Processing payments is sensitive stuff, but modern providers has done a lot to l
 - [Stripe](https://stripe.com/checkout)
 
 | Capabilities |
-|---------| -----|
-Payment |
+|---------|
+| Payment |
 
 ##### Overview
 > Probably the most beloved payment service out there. There are payment services built on top of Stripe to make it easier, like Plasso.
@@ -658,8 +658,8 @@ Payment |
 - [Paystack](https://paystack.com/)
 
 | Capabilities |
-|---------| -----|
-Payment |
+|---------|
+| Payment |
 
 ##### Overview
 > Probably the second most beloved payment service out there. Paystack helps businesses in Africa get paid by anyone, anywhere in the world
@@ -670,8 +670,8 @@ Payment |
 - [Paypal](https://developer.paypal.com/docs/paypal-payments-standard/integration-guide/buy-now-step-1/)
 
 | Capabilities |
-|---------| -----|
-Payment |
+|---------|
+| Payment |
 
 ##### Overview
 > The most relevant PayPal service is probably their Buy Now buttons, which send buyers to PayPal to check out, and then back to the website.
@@ -682,8 +682,8 @@ Payment |
 - [Braintree](https://www.braintreepayments.com/)
 
 | Capabilities |
-|---------| -----|
-Payment |
+|---------|
+| Payment |
 
 ##### Overview
 > Braintree is owned by PayPal, so it is the one other payment service that can take PayPal. The appeal of Braintree is that it makes taking multiple forms of payments (e.g. credit cards and PayPal and Apple Pay, for example) much easier, and through just one set of APIs.
@@ -700,11 +700,11 @@ Imagine things like building your own chat or your own dashboards that update to
 - [Pusher](https://pusher.com/)
 
 | Capabilities |
-|---------| -----|
-Realtim |
+|---------|
+| Realtime |
 
-> ##### Overview
-Realtime APIs
+##### Overview
+> Realtime APIs
 
 
 #### Google Firebase
@@ -714,9 +714,9 @@ Realtime APIs
 | Capabilities |
 |--------------|
 | Authentication |
-Media Storage,
-Cloud Functions,
-Realtime Database
+| Media Storage |
+| Cloud Functions |
+| Realtime Database |
 
 ##### Overview
 > The realtime database is very fast and ready to be used for realtime features. 
@@ -727,11 +727,11 @@ Realtime Database
 - [PubNub](https://www.pubnub.com/)
 
 | Capabilities |
-|---------| -----|
-Realtim |
+|---------|
+| Realtime |
 
-> ##### Overview
-Realtime APIs
+##### Overview
+> Realtime APIs
 
 
 <!-- Search below-->
@@ -744,8 +744,8 @@ People love your website, but going through all that content to find what they a
 - [Google Custom Search Engine](https://cse.google.com/about)
 
 | Capabilities |
-|-------| -------|
-Searc |
+|-------|
+| Search |
 
 ##### Overview
 > With Google Custom Search, add a search box to your homepage to help people find what they need on your website.
@@ -757,8 +757,8 @@ You create mini search engines that are scoped by URL and can then embed them on
 - [Agolia](https://www.algolia.com/)
 
 | Capabilities |
-|-------| -------|
-Searc |
+|-------|
+| Search |
 
 ##### Overview
 > Algolia’s search-as-a-service and full suite of APIs allow teams to easily develop
@@ -776,9 +776,9 @@ Although any host can serve up static assets. But these hosts specialize in it.
 - [Github Pages](https://pages.github.com/)
 
 | Capabilities |
-|---------| -----|
-Hosting |
-Git
+|---------|
+| Hosting |
+| Git |
 
 ##### Overview
 > Make any repository, a website
@@ -789,8 +789,8 @@ Git
 - [Amazon S3](https://aws.amazon.com/s3/)
 
 | Capabilities |
-|--------| ------|
-Hostin |
+|--------|
+| Hosting |
 
 ##### Overview
 > S3 is normally mostly used for media files, but you can use a bucket as a website. Take a look at [Up](https://apex.sh/docs/up/) to help with deploying serverless apps to it.
@@ -801,11 +801,11 @@ Hostin |
 - [Netlify](https://www.netlify.com/)
 
 | Capabilities |
-| --------| ---- |
-Hosting |
-CDN,
-Cloud Functions,
-Git
+| --------|
+| Hosting |
+| CDN |
+| Cloud Functions |
+| Git |
 
 ##### Overview
 > Netlify offers essentially very fancy static file hosting. They have many bonus features like form handling and a CLI. 
@@ -816,11 +816,11 @@ Git
 - [Codepen](https://codepen.io/pro/projects/)
 
 | Capabilities |
-|---------| -----|
-Hosting |
-Code Editor,
-File Storage,
-Preprocessing,
+|---------|
+| Hosting |
+| Code Editor |
+| File Storage |
+| Preprocessing |
 
 ##### Overview
 > Zero setup, full-featured front end web development environment, right here in your web browser.
@@ -832,8 +832,8 @@ The one and only. Pens are great for quick demos with bits of HTML, CSS, and Jav
 - [ZEIT](https://zeit.co/)
 
 | Capabilities |
-|--------| ------|
-Hostin |
+|--------|
+| Hosting |
 
 ##### Overview
 > This is the fastest of all. A command-line based deployment tool for any framework. Deploy an app with just one command.
@@ -844,8 +844,8 @@ Hostin |
 - [Surge](https://surge.sh/)
 
 | Capabilities |
-|--------| ------|
-Hostin |
+|--------|
+| Hosting |
 
 ##### Overview
 > A command-line based deployment tool for any framework.
@@ -856,8 +856,8 @@ Hostin |
 - [Aerobatic](https://www.aerobatic.com/)
 
 | Capabilities |
-|---------| -----|
-Hosting |
+|---------|
+| Hosting |
 
 ##### Overview
 > Blazing fast performance on our highly tuned, purpose-built CDN. Expand the possibilities of static sites with plugins.
@@ -869,8 +869,8 @@ Built for static sites, but extensible through "plugins" for stuff like redirect
 - [Firebase Hosting](https://firebase.google.com/docs/hosting/)
 
 | Capabilities |
-|---------| -----|
-Hosting |
+|---------|
+| Hosting |
 
 ##### Overview
 > Firebase Hosting is production-grade web content hosting for developers. With Hosting, you can quickly and easily deploy web apps and static content to a global content delivery network (CDN) with a single command.
