@@ -811,3 +811,5 @@ Firebase Hosting is production-grade web content hosting for developers. With Ho
 Want to contribute? [CONTRIBUTE](/CONTRIBUTE.md)
 
 Star the repo if you find it helpful, fork if you want and happy building!!
+
+My love :love: to the community
