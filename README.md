@@ -19,7 +19,7 @@ Web developers of all kinds can take advantage of it, but this is particularly i
   - [Static-File-Hosting](#static-file-hosting)
   
 
-If you're la serverless noob and want to learn any of this resources, or you're thinking of learning some you don't know, I've compiled some resources to help you with that: [RESOURCES](/RESOURCES.md)
+If you're a serverless noob and want to learn any of this resources, or you're thinking of learning some you don't know, I've compiled some resources to help you with that: [RESOURCES](/RESOURCES.md)
 
 <!-- Serverless Providers below-->
 
@@ -94,6 +94,7 @@ If you're la serverless noob and want to learn any of this resources, or you're 
 ##### Overview
 > Google Firebase is very powerful while being very easy to use. For example, you can run cloud functions, but you don't even need to for most data storage and retrieval or auth. It might be expensive to scale on though.
 
+***
 
 #### IBM Cloud Functions
 
@@ -106,6 +107,7 @@ If you're la serverless noob and want to learn any of this resources, or you're 
 ##### Overview
 > Run your application code without servers, scale it automatically, and pay nothing when it's not in use.
 
+***
 
 #### Webtask
 
@@ -119,6 +121,7 @@ If you're la serverless noob and want to learn any of this resources, or you're 
 ##### Overview
 > An in-browser editor for creating and testing cloud functions. Seems like the nicest experience for this particular job. It's kinda of an elaborate demonstration of Auth0 Extend, which is essentially a way to take Webtask and put it in your own app.
 
+***
 
 #### StdLib
 
@@ -132,10 +135,14 @@ If you're la serverless noob and want to learn any of this resources, or you're 
 > StdLib is based on Function as a Service ("server-less") architecture, popularized by AWS Lambda. You can use StdLib to build modular, scalable APIs for yourself and other developers in minutes without having to manage servers, gateways, domains, write documentation, or build SDKs. They also offer an online code editor for working with the APIs.
 
 
+***
+
 <!-- Auth below-->
 
 ### Auth
-For sites that have users or administrators that need to log in to do things, OAuth services are there to help
+> For sites that have users or administrators that need to log in to do things, OAuth services are there to help
+
+***
 
 #### AuthO
 
@@ -148,6 +155,7 @@ For sites that have users or administrators that need to log in to do things, OA
 ##### Overview
 > Helps you in handling your own site's authentication system or integrates with loads of other services.
 
+***
 
 #### Okta
 
@@ -159,6 +167,8 @@ For sites that have users or administrators that need to log in to do things, OA
 
 ##### Overview
 > An SDK that helps you to handle all auth and user management
+
+***
 
 #### Google Firebase
 
@@ -174,6 +184,8 @@ For sites that have users or administrators that need to log in to do things, OA
 ##### Overview
 > You don't need any cloud functions, it helps you handles authentication entirely from the frontend.
 
+***
+
 #### Netlify Identity
 
 - [Netlify Identity](https://docs.netlify.com/visitor-access/identity/)
@@ -186,12 +198,14 @@ For sites that have users or administrators that need to log in to do things, OA
 ##### Overview
 > Backed by the GoTrue API, Netlify Identity service brings a full suite of authentication functionality.
 
-
+***
 
 <!-- CMS below-->
 
 ### CMS
-You want to abstract UI and auth for managing content away into a service, and access the content via an API, CMS services are there to help.
+> You want to abstract UI and auth for managing content away into a service, and access the content via an API, CMS services are there to help.
+
+***
 
 #### Sanity
 
@@ -203,6 +217,8 @@ You want to abstract UI and auth for managing content away into a service, and a
 
 ##### Overview
 > You can edit collaboratively, distribute over APIs and freely decide later how and where your content will be used.
+
+***
 
 #### Shifter
 
@@ -216,6 +232,7 @@ You want to abstract UI and auth for managing content away into a service, and a
 ##### Overview
 > WordPress sites automatically have a Rest API. But you still need to host the site somewhere and serverless isn't really gonna happen. Except... Shifter is the WordPress hosting solution that combines static site generation and serverless architecture with the world’s most popular CMS.
 
+***
 
 #### DatoCMS
 
@@ -228,6 +245,7 @@ You want to abstract UI and auth for managing content away into a service, and a
 ##### Overview
 > Hosted CMS that outputs all your data as a JSON API.
 
+***
 
 #### Flamelink
 
@@ -241,6 +259,7 @@ You want to abstract UI and auth for managing content away into a service, and a
 ##### Overview
 > A Realtime Headless CMS for Firebase
 
+***
 
 #### Better CMS
 
@@ -253,6 +272,7 @@ You want to abstract UI and auth for managing content away into a service, and a
 ##### Overview
 > A UI (and API) for managing/creating content, and APIs/SDKs for getting out your content.
 
+***
 
 #### Prismic
 
@@ -265,6 +285,7 @@ You want to abstract UI and auth for managing content away into a service, and a
 ##### Overview
 > A UI (and API) for managing/creating content, and APIs/SDKs for getting out your content.
 
+***
 
 #### Contentful
 
@@ -277,6 +298,7 @@ You want to abstract UI and auth for managing content away into a service, and a
 ##### Overview
 > A UI (and API) for managing/creating content, and APIs/SDKs for getting out your content.
 
+***
 
 #### Netlify CMS
 
@@ -291,12 +313,14 @@ You want to abstract UI and auth for managing content away into a service, and a
 ##### Overview
 > This is a React SPA that works with any static site generator.
 
-
+***
 
 <!-- Email/SMS/Notifications below-->
 
 ### Email/SMS/Notifications
-Email, SMS and notification services of any kind
+> Email, SMS and notification services of any kind
+
+***
 
 #### Twilio
 
@@ -312,6 +336,7 @@ Email, SMS and notification services of any kind
 ##### Overview
 > Twilio offers powerful APIs for text messaging, voice, and video.
 
+***
 
 #### Mailgun
 
@@ -324,6 +349,7 @@ Email, SMS and notification services of any kind
 ##### Overview
 > Email sending service.
 
+***
 
 #### EmailJS
 
@@ -336,6 +362,7 @@ Email, SMS and notification services of any kind
 ##### Overview
 > You don't need any server side code at all for this.
 
+***
 
 #### PopcornNotify
 
@@ -349,6 +376,7 @@ Email, SMS and notification services of any kind
 ##### Overview
 > Email and text messages with just one javaScript API.
 
+***
 
 #### OneSignal
 
@@ -361,6 +389,7 @@ Email, SMS and notification services of any kind
 ##### Overview
 > Android, iOS, and Web push notifications
 
+***
 
 #### Sendgrid
 
@@ -373,6 +402,7 @@ Email, SMS and notification services of any kind
 ##### Overview
 > Email sending service, and an email builder tool as well.
 
+***
 
 #### Sparkpost
 
@@ -385,12 +415,14 @@ Email, SMS and notification services of any kind
 ##### Overview
 > Email sending service, and comes with analytics too.
 
-
+***
 
 <!-- Forms below-->
 
 ### Forms
-Form builder apps. You can host the form and embed with an iframe, or you can host the form and point the submission to them.
+> Form builder apps. You can host the form and embed with an iframe, or you can host the form and point the submission to them.
+
+***
 
 #### Google Forms
 
@@ -403,6 +435,7 @@ Form builder apps. You can host the form and embed with an iframe, or you can ho
 ##### Overview
 > An easy and free service
 
+***
 
 #### Wufoo
 
@@ -414,8 +447,9 @@ Form builder apps. You can host the form and embed with an iframe, or you can ho
 
 ##### Overview
 > Build custom online forms that you can use to collect data, payments and to automate your workflows.
-Secure forms. API access to data. Reporting. Logic & Branching. Integrations.
+> Secure forms. API access to data. Reporting. Logic & Branching. Integrations.
 
+***
 
 #### Formstack
 
@@ -428,6 +462,7 @@ Secure forms. API access to data. Reporting. Logic & Branching. Integrations.
 ##### Overview
 > Payments. Integrations
 
+***
 
 #### TypeForm
 
@@ -440,6 +475,7 @@ Secure forms. API access to data. Reporting. Logic & Branching. Integrations.
 ##### Overview
 > Forms with a novel UI/UX where each question is essentially a full page view that slides by.
 
+***
 
 #### PageClip
 
@@ -453,6 +489,7 @@ Secure forms. API access to data. Reporting. Logic & Branching. Integrations.
 > Collect info from users without a server—Pageclip is your server. Lead capture forms, surveys, newsletter forms, contact forms, etc. Setup any form in seconds.
 Point the `action` attribute at a pageclip URL and it saves all the data for you. It can trigger an email notification, or makes the data available as JSON or CSV.
 
+***
 
 #### Formspree
 
@@ -465,6 +502,7 @@ Point the `action` attribute at a pageclip URL and it saves all the data for you
 ##### Overview
 > You point `action` attribute like many of the other services, but the hook here is that you use your own email address in the URL, so you don't even have to register.
 
+***
 
 #### Formkeep
 
@@ -477,6 +515,7 @@ Point the `action` attribute at a pageclip URL and it saves all the data for you
 ##### Overview
 > Point the `action` attribute at Formkeep and it'll handle the form processing for you. Integrates with services like Zapier, MailChimp, Slack, and Trello. Notable features include spam filtering and auto responders.
 
+***
 
 #### Formaholic
 
@@ -489,6 +528,7 @@ Point the `action` attribute at a pageclip URL and it saves all the data for you
 ##### Overview
 > Their tagline: Send your form to our URL and we'll save it & send it to your email. No server side code required - perfect for static sites!
 
+***
 
 #### Basin
 
@@ -501,6 +541,7 @@ Point the `action` attribute at a pageclip URL and it saves all the data for you
 ##### Overview
 > Point the `action` attribute at Basin and it'll handle the form processing for you. Basin features include Zapier integration (which connects to loads of other services), spam filtering, response emails, file uploads, and more.
 
+***
 
 #### Jotform
 
@@ -513,6 +554,7 @@ Point the `action` attribute at a pageclip URL and it saves all the data for you
 ##### Overview
 > Has a drag and drop form builder.
 
+***
 
 #### Formcarry
 
@@ -525,11 +567,14 @@ Point the `action` attribute at a pageclip URL and it saves all the data for you
 ##### Overview
 > Point the `action` attribute at Formcarry and it'll handle the form processing for you. Notably, it has integrations with services like Zapier, Salesforce, Intercom, and Slack. It also has Web-hooks to notify other services (which is nice for serverless architectures).
 
+***
 
 <!-- Media storage below-->
 
 ### Media storage
-Whether your website is using Serverless or not, you can use this services to manage and manipulate your media files.
+> Whether your website is using Serverless or not, you can use this services to manage and manipulate your media files.
+
+***
 
 #### Cloudinary
 
@@ -543,6 +588,7 @@ Whether your website is using Serverless or not, you can use this services to ma
 ##### Overview
 > Cloudinary does fancy image/video stuff like manipulation and optimization, but will also directly host for you, making it a good Serverless fit.
 
+***
 
 #### Kloudless
 
@@ -555,6 +601,7 @@ Whether your website is using Serverless or not, you can use this services to ma
 ##### Overview
 > Integrates multiple file storage solutions with one API.
 
+***
 
 #### Uploadcare
 
@@ -567,6 +614,7 @@ Whether your website is using Serverless or not, you can use this services to ma
 ##### Overview
 > Full featured file uploader and file storage.
 
+***
 
 #### Filestack
 
@@ -579,6 +627,7 @@ Whether your website is using Serverless or not, you can use this services to ma
 ##### Overview
 > Offers an all-JavaScript file picker that integrates with other services. The host the uploaded files.
 
+***
 
 #### Amazon S3
 
@@ -591,13 +640,14 @@ Whether your website is using Serverless or not, you can use this services to ma
 ##### Overview
 > Object storage built to store and retrieve any amount of data from anywhere
 
-
+***
 
 <!-- Monitoring below-->
 
 ### Monitoring
-Services in which you can install to monitor your server. When you're working serverless land, you may need/want a service that can work without you installing things onto a server. Here are some of those services that can help you monitor your serverless apps.
+> Services in which you can install to monitor your server. When you're working serverless land, you may need/want a service that can work without you installing things onto a server. Here are some of those services that can help you monitor your serverless apps.
 
+***
 
 #### Dashbird
 
@@ -610,18 +660,20 @@ Services in which you can install to monitor your server. When you're working se
 ##### Overview
 > Their tagline: AWS Lambda monitoring, alerting and debugging made easy. 2-min setup, no code changes!
 
+***
 
 #### Thundra
 
 - [Thundra](https://www.thundra.io/)
 
 | Capabilities |
-|-----------| ---|
-Monitorin |
+|-----------|
+| Monitoring |
 
 ##### Overview
 > Their tagline: Full observability for AWS Lambda. Instrument and profile your functions with zero overhead. Gain visibility to identify and resolve issues faster.
 
+***
 
 #### IOpipe
 
@@ -634,12 +686,14 @@ Monitorin |
 ##### Overview
 > IOpipe is a tool and service that helps you instrument and monitor your functions in dev and production. Free tier available for smaller projects.
 
+***
 
 <!-- Payment below-->
 
 ### Payment
-Processing payments is sensitive stuff, but modern providers has done a lot to largely abstract that difficulty away.
+> Processing payments is sensitive stuff, but modern providers has done a lot to largely abstract that difficulty away.
 
+***
 
 #### Stripe
 
@@ -652,6 +706,7 @@ Processing payments is sensitive stuff, but modern providers has done a lot to l
 ##### Overview
 > Probably the most beloved payment service out there. There are payment services built on top of Stripe to make it easier, like Plasso.
 
+***
 
 #### Paystack
 
@@ -664,6 +719,7 @@ Processing payments is sensitive stuff, but modern providers has done a lot to l
 ##### Overview
 > Probably the second most beloved payment service out there. Paystack helps businesses in Africa get paid by anyone, anywhere in the world
 
+***
 
 #### Paypal
 
@@ -676,6 +732,7 @@ Processing payments is sensitive stuff, but modern providers has done a lot to l
 ##### Overview
 > The most relevant PayPal service is probably their Buy Now buttons, which send buyers to PayPal to check out, and then back to the website.
 
+***
 
 #### Braintree
 
@@ -688,12 +745,14 @@ Processing payments is sensitive stuff, but modern providers has done a lot to l
 ##### Overview
 > Braintree is owned by PayPal, so it is the one other payment service that can take PayPal. The appeal of Braintree is that it makes taking multiple forms of payments (e.g. credit cards and PayPal and Apple Pay, for example) much easier, and through just one set of APIs.
 
-
+***
 
 <!-- Real Time below-->
 
 ### Real Time
-Imagine things like building your own chat or your own dashboards that update to new data without needing to be refreshed. Yeah these are the services that you can consider.
+> Imagine things like building your own chat or your own dashboards that update to new data without needing to be refreshed. Yeah these are the services that you can consider.
+
+***
 
 #### Pusher
 
@@ -706,6 +765,7 @@ Imagine things like building your own chat or your own dashboards that update to
 ##### Overview
 > Realtime APIs
 
+***
 
 #### Google Firebase
 
@@ -721,6 +781,7 @@ Imagine things like building your own chat or your own dashboards that update to
 ##### Overview
 > The realtime database is very fast and ready to be used for realtime features. 
 
+***
 
 #### PubNub
 
@@ -733,11 +794,14 @@ Imagine things like building your own chat or your own dashboards that update to
 ##### Overview
 > Realtime APIs
 
+***
 
 <!-- Search below-->
 
 ### Search
-People love your website, but going through all that content to find what they are looking for can take a long time, thinking about that? To make a great website even better, simple, custom search services can help you do that, below are these services:
+> People love your website, but going through all that content to find what they are looking for can take a long time, thinking about that? To make a great website even better, simple, custom search services can help you do that, below are these services:
+
+***
 
 #### Google Custom Search Engine
 
@@ -749,8 +813,9 @@ People love your website, but going through all that content to find what they a
 
 ##### Overview
 > With Google Custom Search, add a search box to your homepage to help people find what they need on your website.
-You create mini search engines that are scoped by URL and can then embed them onto your own site.
+> You create mini search engines that are scoped by URL and can then embed them onto your own site.
 
+***
 
 #### Agolia
 
@@ -761,15 +826,17 @@ You create mini search engines that are scoped by URL and can then embed them on
 | Search |
 
 ##### Overview
-> Algolia’s search-as-a-service and full suite of APIs allow teams to easily develop
-tailored, fast Search and Discovery experiences that delight and convert.
-Put all your searchable data in Algolia, and you and query and get results through APIs incredibly fast.
+> Algolia’s search-as-a-service and full suite of APIs allow teams to easily develop 
+> tailored, fast Search and Discovery experiences that delight and convert.
+> Put all your searchable data in Algolia, and you and query and get results through APIs incredibly fast.
 
 
 <!-- Static file hosting below-->
 
 ### Static file hosting
-Although any host can serve up static assets. But these hosts specialize in it.
+> Although any host can serve up static assets. But these hosts specialize in it.
+
+***
 
 #### Github Pages
 
@@ -783,6 +850,7 @@ Although any host can serve up static assets. But these hosts specialize in it.
 ##### Overview
 > Make any repository, a website
 
+***
 
 #### Amazon S3
 
@@ -795,6 +863,7 @@ Although any host can serve up static assets. But these hosts specialize in it.
 ##### Overview
 > S3 is normally mostly used for media files, but you can use a bucket as a website. Take a look at [Up](https://apex.sh/docs/up/) to help with deploying serverless apps to it.
 
+***
 
 #### Netlify
 
@@ -810,6 +879,7 @@ Although any host can serve up static assets. But these hosts specialize in it.
 ##### Overview
 > Netlify offers essentially very fancy static file hosting. They have many bonus features like form handling and a CLI. 
 
+***
 
 #### Codepen
 
@@ -824,8 +894,9 @@ Although any host can serve up static assets. But these hosts specialize in it.
 
 ##### Overview
 > Zero setup, full-featured front end web development environment, right here in your web browser.
-The one and only. Pens are great for quick demos with bits of HTML, CSS, and JavaScript. CodePen Projects gives you a complete file system of your own.
+>The one and only. Pens are great for quick demos with bits of HTML, CSS, and JavaScript. CodePen Projects gives you a complete file system of your own.
 
+***
 
 #### ZEIT
 
@@ -838,6 +909,7 @@ The one and only. Pens are great for quick demos with bits of HTML, CSS, and Jav
 ##### Overview
 > This is the fastest of all. A command-line based deployment tool for any framework. Deploy an app with just one command.
 
+***
 
 #### Surge
 
@@ -850,6 +922,7 @@ The one and only. Pens are great for quick demos with bits of HTML, CSS, and Jav
 ##### Overview
 > A command-line based deployment tool for any framework.
 
+***
 
 #### Aerobatic
 
@@ -861,8 +934,9 @@ The one and only. Pens are great for quick demos with bits of HTML, CSS, and Jav
 
 ##### Overview
 > Blazing fast performance on our highly tuned, purpose-built CDN. Expand the possibilities of static sites with plugins.
-Built for static sites, but extensible through "plugins" for stuff like redirects and form submissions.
+> Built for static sites, but extensible through "plugins" for stuff like redirects and form submissions.
 
+***
 
 #### Firebase Hosting
 
@@ -875,6 +949,7 @@ Built for static sites, but extensible through "plugins" for stuff like redirect
 ##### Overview
 > Firebase Hosting is production-grade web content hosting for developers. With Hosting, you can quickly and easily deploy web apps and static content to a global content delivery network (CDN) with a single command.
 
+***
 
 Want to contribute? [CONTRIBUTE](/CONTRIBUTE.md)
 
